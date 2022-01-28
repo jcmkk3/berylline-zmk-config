@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: okke-formsma
-      revision: stick-hold
+      revision: sticky-hold
       import: app/west.yml
   self:
     path: config
